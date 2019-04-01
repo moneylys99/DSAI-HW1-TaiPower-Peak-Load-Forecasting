@@ -1,7 +1,7 @@
 
 ## DSAI HW1 Peak Load Forecasting by LSTM ##
 ### Chien, Hsin-Yen (RE6071088) ###
-Institute of Data Science
+Institute of Data Science  
 https://nbviewer.jupyter.org/github/moneylys99/DSAI-HW1-TaiPower-Peak-Load-Forecasting/blob/master/electric_power.ipynb
 
 ### Package ###
